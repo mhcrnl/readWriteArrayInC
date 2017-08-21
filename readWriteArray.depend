@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1503322853 source:/home/mhcrnl/Documents/C/readWriteArray/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"readArray.h"
+
+1503322876 source:/home/mhcrnl/Documents/C/readWriteArray/readArray.c
+	"readArray.h"
+
+1503322609 /home/mhcrnl/Documents/C/readWriteArray/readArray.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
